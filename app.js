@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let multiplicadorDoRandom = 100;
+let multiplicadorDoRandom = 50;
 let numeroSecreto = gerarNumeroAleatorio (); tentativas = 1;
 
 function exibirTextonaTela(tag, texto) {
